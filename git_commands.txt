@@ -1,0 +1,23 @@
+
+   
+Mental model: https://dsinecos.github.io/blog/Git-basics
+Basic tutorial: https://rogerdudler.github.io/git-guide/
+
+git clone <repo_url>:
+
+git pull:
+
+git log:
+
+git status:
+
+git show --pretty="" <commit_hash>:
+
+git show --pretty="" --name-only <commit_hash>:
+
+git reset:
+
+git checkout <filename>:
+
+git checkout -b:
+
